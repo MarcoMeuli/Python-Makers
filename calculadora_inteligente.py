@@ -18,4 +18,5 @@ def main():
 
 
 if __name__ == '__main__':
+    print('--> CALCULADORA INTELIGENTE 1 <--\n')
     main()
