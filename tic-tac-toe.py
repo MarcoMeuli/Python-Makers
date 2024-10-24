@@ -9,7 +9,6 @@ def jugadas():
             break
         else:
             print('Introduce un valor correcto.\n')
-        
 
     return (j1, j2)
 
